@@ -1,52 +1,52 @@
 [
     {
-        "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
-        "correct_answer": "Apple",
+        "question": "A feature/defect of a computer system that allows unauthorized access to data?",
+        "correct_answer": "Back Door",
         "options": [
-            "Microsoft",
-            "Atari",
-            "Commodore",
-            "Apple"
+            "Back Door",
+            "Trojan Horse",
+            "Anti Virus",
+            "Internet"
         ]
     },
     {
-        "question": "What does CPU stand for?",
-        "correct_answer": "Central Processing Unit",
+        "question": "what is the process of converting data to an unreadable form? (commonly used to protect sensitive information so that only authorized parties can view it)",
+        "correct_answer": "Encryption",
         "options": [
-            "Central Process Unit",
-            "Computer Personal Unit",
-            "Central Processor Unit",
-            "Central Processing Unit"
+            "Firewall",
+            "Decryption",
+            "Encryption",
+            "Scrambling"
         ]
     },
     {
-        "question": "What does the &quot;MP&quot; stand for in MP3?",
-        "correct_answer": "Moving Picture",
+        "question": "An automated program that runs over the Internet?",
+        "correct_answer": "Bot",
         "options": [
-            "Music Player",
-            "Multi Pass",
-            "Micro Point",
-            "Moving Picture"
+            "AI",
+            "Bot",
+            "Worm",
+            "Broadband"
         ]
     },
     {
-        "question": "The numbering system with a radix of 16 is more commonly referred to as ",
-        "correct_answer": "Hexidecimal",
+        "question": "Software designed to protect against computer viruses?",
+        "correct_answer": "Firewall",
         "options": [
-            "Binary",
-            "Duodecimal",
-            "Octal",
-            "Hexidecimal"
+            "Malware",
+            "Defense",
+            "White Hat Hacker",
+            "Firewall"
         ]
     },
     {
-        "question": "How long is an IPv6 address?",
-        "correct_answer": "128 bits",
+        "question": "Type of malware that records a victims keystrokes?",
+        "correct_answer": "Keylogger",
         "options": [
-            "32 bits",
-            "64 bits",
-            "128 bytes",
-            "128 bits"
+            "Keylogger",
+            "Keyboard",
+            "Log File",
+            "Worm"
         ]
     }
 ]
