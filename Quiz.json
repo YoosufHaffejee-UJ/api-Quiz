@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+        "correct_answer": "Apple",
+        "options": [
+            "Microsoft",
+            "Atari",
+            "Commodore",
+            "Apple"
+        ]
+    },
+    {
+        "question": "What does CPU stand for?",
+        "correct_answer": "Central Processing Unit",
+        "options": [
+            "Central Process Unit",
+            "Computer Personal Unit",
+            "Central Processor Unit",
+            "Central Processing Unit"
+        ]
+    },
+    {
+        "question": "What does the &quot;MP&quot; stand for in MP3?",
+        "correct_answer": "Moving Picture",
+        "options": [
+            "Music Player",
+            "Multi Pass",
+            "Micro Point",
+            "Moving Picture"
+        ]
+    },
+    {
+        "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+        "correct_answer": "Hexidecimal",
+        "options": [
+            "Binary",
+            "Duodecimal",
+            "Octal",
+            "Hexidecimal"
+        ]
+    },
+    {
+        "question": "How long is an IPv6 address?",
+        "correct_answer": "128 bits",
+        "options": [
+            "32 bits",
+            "64 bits",
+            "128 bytes",
+            "128 bits"
+        ]
+    }
+]
