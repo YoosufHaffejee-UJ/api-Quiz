@@ -71,9 +71,9 @@
     },
     {
         "question": "What does ransomware do?",
-        "correct_answer": "Encrpts the victims disk leaving the files inaccessible",
+        "correct_answer": "Encrpts the victims disk",
         "options": [
-            "Encrpts the victims disk, leaving the files inaccessible",
+            "Encrpts the victims disk",
             "Crashes the victims PC",
             "Gives you bitcoin",
             "Steals user credentials"
@@ -110,13 +110,13 @@
         ]
     },
     {
-        "question": "What technique can help mitigate the impact of a ransomware attack?",
-        "correct_answer": "Backup",
+        "question": "Your public key should be kept secret?",
+        "correct_answer": "False",
         "options": [
-            "Restore",
-            "Backup",
-            "Antivirus",
-            "Social Engineering"
+            "False",
+            "True",
+            "True",
+            "False"
         ]
     },
     {
@@ -171,7 +171,7 @@
     },
     {
         "question": "Which is false, IDS/IPS stands for?",
-        "correct_answer": "Backup",
+        "correct_answer": "Instruction Protection Service",
         "options": [
             "Intrusion Detection System",
             "Intrusion Prevention System",
@@ -191,7 +191,7 @@
     },
     {
         "question": "Which of the following is not a type of malware?",
-        "correct_answer": "Backup",
+        "correct_answer": "SQL Injection",
         "options": [
             "Keylogger",
             "Spyware",
