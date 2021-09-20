@@ -48,5 +48,155 @@
             "Log File",
             "Worm"
         ]
+    },
+    {
+        "question": "What technique can help mitigate the impact of a ransomware attack?",
+        "correct_answer": "Backup",
+        "options": [
+            "Restore",
+            "Backup",
+            "Antivirus",
+            "Social Engineering"
+        ]
+    },
+    {
+        "question": "What is the recommended minimum password length?",
+        "correct_answer": "8 characters",
+        "options": [
+            "None of the above",
+            "12 characters",
+            "8 characters",
+            "6 characters"
+        ]
+    },
+    {
+        "question": "What does ransomware do?",
+        "correct_answer": "Encrpts the victims disk leaving the files inaccessible",
+        "options": [
+            "Encrpts the victims disk, leaving the files inaccessible",
+            "Crashes the victims PC",
+            "Gives you bitcoin",
+            "Steals user credentials"
+        ]
+    },
+    {
+        "question": "Which password is strongest?",
+        "correct_answer": "%R4diAnt99",
+        "options": [
+            "QWERTY",
+            "abcdefg1234567",
+            "dragon",
+            "%R4diAnt99"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT essential to cybersecurity?",
+        "correct_answer": "Interoperability",
+        "options": [
+            "Confidentiality",
+            "Integrity",
+            "Availability",
+            "Interoperability"
+        ]
+    },
+    {
+        "question": "What should you do if your password is leaked of stolen?",
+        "correct_answer": "Change my password",
+        "options": [
+            "Change my password",
+            "Report it to the authorities",
+            "Delete my account",
+            "Wait a while to see what happens"
+        ]
+    },
+    {
+        "question": "What technique can help mitigate the impact of a ransomware attack?",
+        "correct_answer": "Backup",
+        "options": [
+            "Restore",
+            "Backup",
+            "Antivirus",
+            "Social Engineering"
+        ]
+    },
+    {
+        "question": "Asymmetric key encryption uses how many keys?",
+        "correct_answer": "2 keys",
+        "options": [
+            "2 keys",
+            "4 keys",
+            "1 key",
+            "All of the above"
+        ]
+    },
+    {
+        "question": "What is more secure?",
+        "correct_answer": "HTTPS",
+        "options": [
+            "HTTPS",
+            "HTTP",
+            "HTTPS",
+            "HTTP"
+        ]
+    },
+    {
+        "question": "Which of these attributes does NOT contribute towards a strong password?",
+        "correct_answer": "Easy to remember",
+        "options": [
+            ">8 Characters",
+            "Includes numbers and symbols",
+            "Is not socially obtainable",
+            "Easy to remember"
+        ]
+    },
+    {
+        "question": "What word does the acronym DDoS NOT contain?",
+        "correct_answer": "Daemon",
+        "options": [
+            "Distributed",
+            "Denial",
+            "Service",
+            "Daemon"
+        ]
+    },
+    {
+        "question": "What does the first 'D' in DDoS stand for?",
+        "correct_answer": "Distributed",
+        "options": [
+            "Distributed",
+            "Denial",
+            "Destruction",
+            "Decryption"
+        ]
+    },
+    {
+        "question": "Which is false, IDS/IPS stands for?",
+        "correct_answer": "Backup",
+        "options": [
+            "Intrusion Detection System",
+            "Intrusion Prevention System",
+            "Instruction Protection Service",
+            " "
+        ]
+    },
+    {
+        "question": "Hides the plaintext of a password?",
+        "correct_answer": "Hashing",
+        "options": [
+            "Hashing",
+            "Invisibility",
+            "Password Manager",
+            "Censorship"
+        ]
+    },
+    {
+        "question": "Which of the following is not a type of malware?",
+        "correct_answer": "Backup",
+        "options": [
+            "Keylogger",
+            "Spyware",
+            "Ransomware",
+            "SQL Injection"
+        ]
     }
 ]
